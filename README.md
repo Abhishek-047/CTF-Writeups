@@ -2,9 +2,9 @@
   
 # 🎯 CTF Writeups — Abhishek Panigrahi
   
-[![GitHub Repo size](https://img.shields.io/github/repo-size/AbhishekPanigrahi/CTF-Writeups?style=for-the-badge&color=blue)](https://github.com/AbhishekPanigrahi/CTF-Writeups)
-[![GitHub last commit](https://img.shields.io/github/last-commit/AbhishekPanigrahi/CTF-Writeups?style=for-the-badge&color=green)](https://github.com/AbhishekPanigrahi/CTF-Writeups)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![GitHub Repo size](https://img.shields.io/github/repo-size/Abhishek-047/CTF-Writeups?style=for-the-badge&color=blue)](https://github.com/Abhishek-047/CTF-Writeups)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Abhishek-047/CTF-Writeups?style=for-the-badge&color=green)](https://github.com/Abhishek-047/CTF-Writeups)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/Abhishek-047/CTF-Writeups/blob/main/LICENSE)
 
 *A structured collection of Capture The Flag (CTF) writeups, methodologies, and continuous learning progress.*
 
