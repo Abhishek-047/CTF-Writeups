@@ -57,9 +57,7 @@ I am a passionate **cybersecurity learner** deeply focused on practical skills, 
 
 ```text
 .
-├── Override-CTF-2026/      # Writeups and assets for Override CTF 2026
-├── templates/              # Standardized markdown templates for future writeups
-└── notes/                  # Technical cheat sheets and study notes
+└── Override-CTF-2026/      # Writeups and assets for Override CTF 2026
 ```
 
 ---
