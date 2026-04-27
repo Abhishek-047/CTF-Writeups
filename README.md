@@ -20,7 +20,7 @@ I am a passionate **cybersecurity learner** deeply focused on practical skills, 
 
 ### **Override CTF 2026 — Rank #10 (Top 10)**
 - **Organizer:** Scaler School of Technology
-- **Highlights:** Successfully tackled a diverse range of 17 challenges across various difficulty levels, testing both foundational concepts and advanced exploit development techniques.
+- 🏆 **Highlight:** Override CTF 2026 — Rank #10
 
 ---
 
@@ -78,7 +78,6 @@ All writeups, exploit scripts, and conceptual proofs provided in this repository
 
 ## 🤝 Connect
 
-- **LinkedIn:** [linkedin.com/in/your-profile](#)
-- **GitHub:** [github.com/your-username](#)
-- **TryHackMe:** [tryhackme.com/p/your-profile](#)
-- **HackTheBox:** [app.hackthebox.com/profile/your-id](#)
+- **LinkedIn:** [linkedin.com/in/abhishek-panigrahi-666b6336a](https://www.linkedin.com/in/abhishek-panigrahi-666b6336a/)
+- **GitHub:** [github.com/Abhishek-047](https://github.com/Abhishek-047)
+- **TryHackMe:** [tryhackme.com/p/Strange47](https://tryhackme.com/p/Strange47)
