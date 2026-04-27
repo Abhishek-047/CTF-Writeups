@@ -20,7 +20,7 @@ I am a passionate **cybersecurity learner** deeply focused on practical skills, 
 
 ### **Override CTF 2026 — Rank #10 (Top 10)**
 - **Organizer:** Scaler School of Technology
-- 🏆 **Highlight:** Override CTF 2026 — Rank #10
+- **Highlights:** Solved multiple challenges across Web, Crypto, Forensics, Reverse Engineering, OSINT, and Pwn.
 
 ---
 
@@ -29,6 +29,14 @@ I am a passionate **cybersecurity learner** deeply focused on practical skills, 
 | Year | Event | Rank | Focus | Link |
 | :--- | :--- | :---: | :--- | :---: |
 | 2026 | **Override CTF** | #10 | Web, Forensics, Crypto, Rev, Pwn | [View Writeups](./Override-CTF-2026/) |
+
+---
+
+## 📈 Stats
+
+- **Events Participated:** 1
+- **Best Rank:** #10
+- **Active Domains:** 6
 
 ---
 
@@ -57,16 +65,23 @@ I am a passionate **cybersecurity learner** deeply focused on practical skills, 
 
 ```text
 .
-└── Override-CTF-2026/      # Writeups and assets for Override CTF 2026
+└── Override-CTF-2026/
+    ├── Web/
+    ├── Reverse/
+    ├── Crypto/
+    ├── Forensics/
+    ├── OSINT/
+    └── Pwn/
 ```
 
 ---
 
 ## 🚀 Future Goals
 
-- Participate in more high-stakes, international CTF competitions.
-- Improve my offensive security capabilities, specifically in advanced Binary Exploitation and Kernel-level vulnerability research.
-- Obtain industry-recognized certifications like the OSCP.
+- Expand expertise in **exploit development** and kernel-level vulnerabilities.
+- Deepen understanding of **web security** and modern application architectures.
+- Master **advanced reverse engineering** techniques for complex binaries.
+- Engage in **continuous competitive learning** through international CTFs and platforms.
 
 ---
 
