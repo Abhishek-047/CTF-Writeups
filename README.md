@@ -34,7 +34,7 @@ I am a passionate **cybersecurity learner** deeply focused on practical skills, 
 
 ## 📈 Stats
 
-- **Events Participated:** 1
+- **Events Participated:** 2
 - **Best Rank:** #10
 - **Active Domains:** 6
 
