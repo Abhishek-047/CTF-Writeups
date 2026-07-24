@@ -22,6 +22,10 @@ I am a passionate **cybersecurity learner** deeply focused on practical skills, 
 - **Organizer:** Scaler School of Technology
 - **Highlights:** Solved multiple challenges across Web, Crypto, Forensics, Reverse Engineering, OSINT, and Pwn.
 
+### **CodeMahotsav CTF 2026 — Rank #5 (Top 5)**
+- **Organizer:** Symbiosis Skills and Professional University
+- **Highlights:** Solved multiple challenges across Web, Crypto, Forensics, Reverse Engineering, OSINT, and Pwn.
+
 ---
 
 ## 📅 Event History
@@ -29,13 +33,14 @@ I am a passionate **cybersecurity learner** deeply focused on practical skills, 
 | Year | Event | Rank | Focus | Link |
 | :--- | :--- | :---: | :--- | :---: |
 | 2026 | **Override CTF** | #10 | Web, Forensics, Crypto, Rev, Pwn | [View Writeups](./Override-CTF-2026/) |
+| 2026 | **CodeMahotsav CTF** | #5 | Web, Forensics, Crypto, Rev, Pwn | [View Writeups](./CodeMahotsav-CTF-2026/) |
 
 ---
 
 ## 📈 Stats
 
 - **Events Participated:** 2
-- **Best Rank:** #10
+- **Best Rank:** #5
 - **Active Domains:** 6
 
 ---
@@ -72,6 +77,15 @@ I am a passionate **cybersecurity learner** deeply focused on practical skills, 
     ├── Forensics/
     ├── OSINT/
     └── Pwn/
+.
+└── CodeMahotsav-CTF-2026/
+    ├── Cry/
+    ├── For/
+    ├── Misc/
+    ├── Net/
+    ├── OSINT/
+    └── Rev/
+    └── Web/
 ```
 
 ---
